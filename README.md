@@ -2,7 +2,7 @@
 Perpose of this backend server is to communicate with the [frontend-angular-server](https://github.com/iamsurajitmishra/Ecommerse-Frontend)
 and serve the request.
 
-##Tech stack
+## Tech stack
  * Spring-boot
  * Spring-boot-JPA
  * Rest Repository
